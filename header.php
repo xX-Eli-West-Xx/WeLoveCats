@@ -1,3 +1,8 @@
+<?php
+    session_start();
+    require './includes/dbh.inc.php';
+?>
+
 <!doctype html>
 <html lang="en">
 
@@ -61,9 +66,21 @@
       <!-- Login Button -->
       <!-- <a href="#" class="btn btn-nav" role="button">Sign Up | Log In</button> -->
     </ul>
-    <a href="signup.php">
-      <button class="btn btn-nav">Sign Up | Log In</button>
-    </a>
+    <?php
+                if (isset($_SESSION['userId'])) {
+                  echo '
+                  <a href="index.php">
+                  <button class="btn btn-nav">Welcome, '.$_SESSION['userUid'].'</button>
+                  </a>
+                  ';
+                } else {
+                  echo '
+                  <a href="signup.php">
+                  <button class="btn btn-nav">Sign Up | Log In</button>
+                  </a>
+                  ';
+                }
+              ?>
     </li>
   </div>
 </nav>

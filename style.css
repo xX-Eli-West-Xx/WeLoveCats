@@ -19,7 +19,21 @@ body{
     font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
-/* color items */
+
+
+
+
+
+
+/*    CCCCCCCCC    OOOOOOOO    LLLL          OOOOOOOO    RRRRRRRRR        SSSSSSS
+     CCCCCCCCCC   OOOOOOOOOO   LLLL         OOOOOOOOOO   RRR    RRR     SSSS   SSSS
+     CCCC         OOO    OOO   LLLL         OOO    OOO   RRR     RRR   SSSS        
+     CCCC         OOO    OOO   LLLL         OOO    OOO   RRR    RRR      SSSS    
+     CCCC         OOO    OOO   LLLL         OOO    OOO   RRRRRRRRR          SSSS   
+     CCCC         OOO    OOO   LLLL         OOO    OOO   RRR    RRR           SSSS 
+     CCCCCCCCCC   OOOOOOOOOO   LLLLLLLLLL   OOOOOOOOOO   RRR     RRR   SSSS    SSSS
+      CCCCCCCCC    OOOOOOOO    LLLLLLLLLL    OOOOOOOO    RRR     RRR      SSSSSSS     */
+
 .bg-lp {
     background-color:#f1988f;
 }
@@ -33,12 +47,21 @@ body{
     color:#E7626A;
 }
 
-.navbar-toggler-icon {
-    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
-}
 
 
-/*   Font Items   */
+
+
+
+
+/*   FFFFFFFFFF    OOOOOOOO    NNN      NN   TTTTTTTTTTT      SSSSSS
+     FFFFFFFFFF   OOOOOOOOOO   NNNN     NN   TTTTTTTTTTT    SSSS   SSSS
+     FFFF         OOO    OOO   NN NN    NN       TTT       SSSS        
+     FFFFFFFF     OOO    OOO   NN  NN   NN       TTT         SSSS    
+     FFFFFFFF     OOO    OOO   NN   NN  NN       TTT            SSSS   
+     FFFF         OOO    OOO   NN    NN NN       TTT              SSSS 
+     FFFF         OOOOOOOOOO   NN     NNNN       TTT       SSSS    SSSS
+     FFFF          OOOOOOOO    NN      NNN       TTT          SSSSSSS     */
+
 .text{
     font-family: "Comic Sans MS";
     color: white;
@@ -64,10 +87,21 @@ body{
 .center{
     text-align: center;
 }
-/*  end font items  */
 
 
-/* NAVBAR */
+
+
+
+
+
+/*   NNN      NN     AAAAAA     VVV    VVV   BBBBBBB        AAAAAA     RRRRRRRRR
+     NNNN     NN    AAA  AAA    VVV    VVV   BBB  BBB      AAA  AAA    RRR    RRR
+     NN NN    NN   AAA    AAA   VVV    VVV   BBB   BBB    AAA    AAA   RRR     RRR
+     NN  NN   NN   AAA    AAA   VVV    VVV   BBBBBBB      AAA    AAA   RRR    RRR
+     NN   NN  NN   AAAAAAAAAA   VVV    VVV   BBB   BBB    AAAAAAAAAA   RRRRRRRRR
+     NN    NN NN   AAA    AAA   VVV    VVV   BBB    BBB   AAA    AAA   RRR    RRR
+     NN     NNNN   AAA    AAA    VVV  VVV    BBB   BBB    AAA    AAA   RRR     RRR
+     NN      NNN   AAA    AAA      VVVV      BBBBBBBB     AAA    AAA   RRR     RRR   */
 
 .nav-logo{
     height:70px;
@@ -95,6 +129,11 @@ body{
     color:white;
 }
 
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+
 .nav-item {
     padding-left:25px;
     padding-right:25px;
@@ -104,12 +143,40 @@ nav {
     padding-bottom:25px;
 }
 
-/* CAROUSEL */
+
+
+
+
+
+
+/*    CCCCCCCCC     AAAAAA     RRRRRRRRR      OOOOOOOO    UUU    UUU      SSSSSSS     EEEEEEEEEE   LLLL         
+     CCCCCCCCCC    AAA  AAA    RRR    RRR    OOOOOOOOOO   UUU    UUU    SSSS   SSSS   EEEEEEEEEE   LLLL         
+     CCCC         AAA    AAA   RRR     RRR   OOO    OOO   UUU    UUU   SSSS           EEE          LLLL         
+     CCCC         AAA    AAA   RRR    RRR    OOO    OOO   UUU    UUU     SSSS         EEEEEEEE     LLLL         
+     CCCC         AAAAAAAAAA   RRRRRRRRR     OOO    OOO   UUU    UUU        SSSS      EEEEEEEE     LLLL         
+     CCCC         AAA    AAA   RRR    RRR    OOO    OOO   UUU    UUU          SSSS    EEE          LLLL         
+     CCCCCCCCCC   AAA    AAA   RRR     RRR   OOOOOOOOOO   UUU    UUU   SSSS    SSSS   EEEEEEEEEE   LLLLLLLLLL   
+      CCCCCCCCC   AAA    AAA   RRR     RRR    OOOOOOOO      UUUUUU        SSSSSSS     EEEEEEEEEE   LLLLLLLLLL   */
+
 .carousel{
     margin-top:3%;
 }
 
-/* SHOP */
+
+
+
+
+
+
+/*      SSSSSS      HHH    HHH    OOOOOOOO    PPPPPPPP        PPPPPPPP        AAAAAA        GGGGG      EEEEEEEEEE      SSSSSSS
+      SSSS   SSSS   HHH    HHH   OOOOOOOOOO   PPP    PPP      PPP    PPP     AAA  AAA     GG     GG    EEEEEEEEEE    SSSS   SSSS
+     SSSS           HHH    HHH   OOO    OOO   PPP     PPP     PPP     PPP   AAA    AAA   GG       GG   EEE          SSSS        
+       SSSS         HHHHHHHHHH   OOO    OOO   PPP    PPP      PPP    PPP    AAA    AAA   GG            EEEEEEEE       SSSS    
+          SSSS      HHHHHHHHHH   OOO    OOO   PPPPPPPPP       PPPPPPPPP     AAAAAAAAAA   GG    GGGGG   EEEEEEEE          SSSS   
+            SSSS    HHH    HHH   OOO    OOO   PPP             PPP           AAA    AAA   GG       GG   EEE                 SSSS 
+     SSSS    SSSS   HHH    HHH   OOOOOOOOOO   PPP             PPP           AAA    AAA    GG      GG   EEEEEEEEEE   SSSS    SSSS
+        SSSSSSS     HHH    HHH    OOOOOOOO    PPP             PPP           AAA    AAA      GGGGGG     EEEEEEEEEE      SSSSSSS      */
+
 .product-card .row {
     padding-top: .5rem;
     padding-bottom: .5rem;
@@ -135,7 +202,21 @@ h1 {
     margin-bottom:1.5rem;
 }
 
-/* SIGNUP PAGE */
+
+
+
+
+
+
+/*      SSSSSS      IIIIIIIIII      GGGGG      NNN      NN   UUU    UUU   PPPPPPPP      
+      SSSS   SSSS      IIII       GG     GG    NNNN     NN   UUU    UUU   PPP    PPP    
+     SSSS              IIII      GG       GG   NN NN    NN   UUU    UUU   PPP     PPP   
+       SSSS            IIII      GG            NN  NN   NN   UUU    UUU   PPP    PPP    
+          SSSS         IIII      GG    GGGGG   NN   NN  NN   UUU    UUU   PPPPPPPPP     
+            SSSS       IIII      GG       GG   NN    NN NN   UUU    UUU   PPP           
+     SSSS    SSSS      IIII       GG      GG   NN     NNNN   UUU    UUU   PPP           
+        SSSSSSS     IIIIIIIIII      GGGGGG     NN      NNN     UUUUUU     PPP           */
+
 .signup-form{
     width:80%;
     height:500px;

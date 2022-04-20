@@ -11,41 +11,47 @@
       <li data-slide-to="2" data-target="#home-carousel">
       </li>
     </ol>
-    <div class="carousel-inner">
-      <div class="carousel-item active" style="background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)), url('https://drive.google.com/uc?export=view&id=184LpWmjXyNirFlKgphcIeRMZrM6ErVtT');
-              background-size: cover;">
-        <div class="carousel-caption right">
-          <h4>
+    <div class="carousel-inner" class="color: white;">
+      <div class="carousel-item active">
+        <img src="https://drive.google.com/uc?export=view&id=184LpWmjXyNirFlKgphcIeRMZrM6ErVtT" style="width: 100%;">
+        <div class="carousel-caption">
+          <h1 class="text">
             WeLoveCats
-          </h4>
-          <p>
+          </h1>
+          <h4 class="text">
             No Spaces. Welcome to the number one shop for your little ones!
-          </p>
-          <a href="about.php" class="btn btn-color slide-btn btn-lg">About Us!</a>
+          </h4>
+          <a href="about.php" class="btn btn-color slide-btn btn-lg">
+                  <button class="btn btn-nav">About Us!</button>
+          </a>
         </div>
       </div>
-      <div class="carousel-item" style="background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)), url('https://drive.google.com/uc?export=view&id=1BFpylJjvs6fElFx1fx7pVjMN8IgaNT0_');
-              background-size: cover;">
+      <div class="carousel-item">
+        <img src="https://drive.google.com/uc?export=view&id=1BFpylJjvs6fElFx1fx7pVjMN8IgaNT0_" style="width: 100%;">
         <div class="carousel-caption center">
-          <h4>
-            It's cold out there!
-          </h4>
-          <p>
+          <a href="https://datadev.devcatalyst.com/~mahs_mwest/">
+            <h1 class="text">
+              It's cold out there!
+            </h1>
+          </a>
+          <h4 class="text">
             You should take a look at the housing! We have something for everyone!
-          </p>
-          <a href="housing.php" class="btn btn-color slide-btn btn-lg">Shop Now!</a>
+          </h4>
+          <a href="housing.php" class="btn btn-color slide-btn btn-lg">
+                  <button class="btn btn-nav">Shop Now!</button></a>
         </div>
       </div>
-      <div class="carousel-item" style="background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)), url('https://drive.google.com/uc?export=view&id=1T6-ZUn0KMy8hguBTpN8luCSMBtnovdB-');
-              background-size: cover;">
-        <div class="carousel-caption right">
-          <h4>
+      <div class="carousel-item">
+        <img src="https://drive.google.com/uc?export=view&id=1T6-ZUn0KMy8hguBTpN8luCSMBtnovdB-"  style="width: 100%;">
+        <div class="carousel-caption">
+          <h1 class="text">
             Woah there! Who are you?
-          </h4>
-          <p>
+          </h1>
+          <h4 class="text">
             Sign up for our newsletter on new products or sales!
-          </p>
-          <a href="signup.php" class="btn btn-color slide-btn btn-lg">Sign Up Now!</a>
+          </h4>
+          <a href="signup.php" class="btn btn-color slide-btn btn-lg">
+                  <button class="btn btn-nav">Sign Up Now!</button></a>
         </div>
       </div>
     </div> <a class="carousel-control-prev" href="#home-carousel" data-slide="prev"><span

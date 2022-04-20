@@ -31,11 +31,10 @@ if (isset($_POST['login-submit'])) {
                 }  
                 elseif ($pwdcheck == true) {
                     session_start();
-                    $_SESSION['userId'] = $row['uidUsers'];
+                    $_SESSION['userId'] = $row['idUsers'];
                     $_SESSION['userUid'] = $row['uidUsers'];
                     
                     header("Location: ../login.php?login=success");
-                    header("Location: ../index.php");
                     exit();
 
                 }   else {

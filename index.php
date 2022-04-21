@@ -51,7 +51,7 @@
             Sign up for our newsletter on new products or sales!
           </h4>
           <a href="signup.php" class="btn btn-color slide-btn btn-lg">
-                  <button class="btn btn-nav">Sign Up Now!</button></a>
+                  <button class="btn btn-nav">Sign Up Now !</button></a>
         </div>
       </div>
     </div> <a class="carousel-control-prev" href="#home-carousel" data-slide="prev"><span

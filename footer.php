@@ -1,21 +1,60 @@
 <!--  footer?  -->
-<footer class="footer bg-dp">
+<footer>
+
 <div class="container-fluid bg-dp">
-	<div class="row">
-		<div class="col-md-6">
-        <h5 class="text">test test</h5>
+
+  <!-- Logo -->
+  <div class="row bg-darkteal text-center padding-top">
+    <div class="col-sm-12 col-md-4 ftr-info">
+      <hr class="light ftr-hr">
+      <h5 class="ftr-header">
+        Stuff
+      </h5>
+      <hr class="light ftr-hr">
+      <p>Stuff</p>
+      <p>Stuff</p>
+      <p>Stuff</p>
     </div>
-    <div class="col-md-6">
-      <p>waht</p>
+    <div class="col-sm-12 col-md-4 d-flex align-self-center text-center">
+      <img src="https://drive.google.com/uc?export=view&id=1bKaLXk83mFIGGCuNA_51C_1aSZoNFrcp" class="ftr-logo">
     </div>
-    <div class="col-md-6">
-        <h4 class="text right"><u>Shop</u><br>
-          <a href="#" class="text">Food</a><br>
-          <a href="#" class="text">Housing</a><br>
-          <a href="#" class="text">Equipment</a><br>
+    <div class="col-sm-12 col-md-4 ftr-info">
+      <hr class="light ftr-hr">
+      <h5 class="ftr-header">
+        Stuff
+      </h5>
+      <hr class="light ftr-hr">
+      <p>Stuff</p>
+      <p>Stuff</p>
+      <p>Stuff</p>
+    </div>
+  </div>
+
+  <!-- Font Awesome Icons -->
+  <div class="row bg-darkteal">
+    <div class="col-12 text-center">
+      <hr class="icons-hr">
+      <a href="#" class="icon">
+        <i class="fab fa-facebook-f fa-2x"></i>
+      </a>
+      <a href="mailto:alaina.gowan@students.jmcss.org" class="icon">
+        <i class="fas fa-envelope fa-2x"></i>
+      </a>
+      <a href="tel:#" class="icon">
+        <i class="fas fa-phone fa-2x"></i>
+      </a>
+      <hr class="icons-hr i-hr-bottom">
+    </div>
+  </div>
+
+  <!-- Copyright row -->
+  <div class="row bg-darkteal">
+    <div class="col-12 text-center">
+      <p class="ftr-copy">&copy; WeLoveCats 2022</p>
     </div>
   </div>
 </div>
+
 </footer>
 
   <!-- Optional JavaScript -->

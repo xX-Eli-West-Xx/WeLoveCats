@@ -62,12 +62,13 @@ body{
      FFFF         OOOOOOOOOO   NN     NNNN       TTT       SSSS    SSSS
      FFFF          OOOOOOOO    NN      NNN       TTT          SSSSSSS     */
 
-.text{
+.text-white{
     font-family: "Comic Sans MS";
     color: white;
 }
-.text-no-color{
+.text-black{
     font-family: "Comic Sans MS";
+    color:black;
 }
 .italic{
     font-style: italic;
@@ -140,7 +141,7 @@ body{
 }
 
 nav {
-    padding-bottom:25px;
+    padding-bottom:0;
 }
 
 
@@ -159,7 +160,7 @@ nav {
       CCCCCCCCC   AAA    AAA   RRR     RRR    OOOOOOOO      UUUUUU        SSSSSSS     EEEEEEEEEE   LLLLLLLLLL   */
 
 .carousel{
-    margin-top:3%;
+    margin-top:0%;
 }
 
 
@@ -182,8 +183,8 @@ nav {
     padding-bottom: .5rem;
   }
 
-h1 {
-    margin-top: 9%;
+.h1-shop {
+    margin-top: 1.75%;
     text-align:center;
     font-family: Ubuntu;
     font-variant: normal;
@@ -198,8 +199,8 @@ h1 {
 
 .hr-shop{
     width:78%;
-    margin-top:0;
-    margin-bottom:1.5rem;
+    margin-top:1%;
+    margin-bottom:2%;
 }
 
 
@@ -209,12 +210,12 @@ h1 {
 
 
 /*      SSSSSS      IIIIIIIIII      GGGGG      NNN      NN   UUU    UUU   PPPPPPPP      
-      SSSS   SSSS      IIII       GG     GG    NNNN     NN   UUU    UUU   PPP    PPP    
-     SSSS              IIII      GG       GG   NN NN    NN   UUU    UUU   PPP     PPP   
-       SSSS            IIII      GG            NN  NN   NN   UUU    UUU   PPP    PPP    
-          SSSS         IIII      GG    GGGGG   NN   NN  NN   UUU    UUU   PPPPPPPPP     
-            SSSS       IIII      GG       GG   NN    NN NN   UUU    UUU   PPP           
-     SSSS    SSSS      IIII       GG      GG   NN     NNNN   UUU    UUU   PPP           
+      SSSS   SSSS       II        GG     GG    NNNN     NN   UUU    UUU   PPP    PPP    
+     SSSS               II       GG       GG   NN NN    NN   UUU    UUU   PPP     PPP   
+       SSSS             II       GG            NN  NN   NN   UUU    UUU   PPP    PPP    
+          SSSS          II       GG    GGGGG   NN   NN  NN   UUU    UUU   PPPPPPPPP     
+            SSSS        II       GG       GG   NN    NN NN   UUU    UUU   PPP           
+     SSSS    SSSS       II        GG      GG   NN     NNNN   UUU    UUU   PPP           
         SSSSSSS     IIIIIIIIII      GGGGGG     NN      NNN     UUUUUU     PPP           */
 
 .signup-form{
@@ -222,9 +223,97 @@ h1 {
     height:500px;
     margin-top:500px;
 }
-.signup-con
 
-/* FOOTER */
+
+
+
+
+
+
+/*  FFFFFFFFFF    OOOOOOOO     OOOOOOOO    TTTTTTTTTTT   EEEEEEEEEE   RRRRRRRRR
+    FFFFFFFFFF   OOOOOOOOOO   OOOOOOOOOO   TTTTTTTTTTT   EEEEEEEEEE   RRR    RRR
+    FFFF         OOO    OOO   OOO    OOO       TTT       EEE          RRR     RRR
+    FFFFFFFF     OOO    OOO   OOO    OOO       TTT       EEEEEEEE     RRR    RRR
+    FFFFFFFF     OOO    OOO   OOO    OOO       TTT       EEEEEEEE     RRRRRRRRR
+    FFFF         OOO    OOO   OOO    OOO       TTT       EEE          RRR    RRR
+    FFFF         OOOOOOOOOO   OOOOOOOOOO       TTT       EEEEEEEEEE   RRR     RRR
+    FFFF          OOOOOOOO     OOOOOOOO        TTT       EEEEEEEEEE   RRR     RRR   */
+
 footer {
     width:100%;
 }
+
+.ftr-text {
+    padding-top: .5em;
+    padding-bottom: 0em;
+    font-size: 1.2rem;
+}
+
+.ftr-copy {
+    text-align: center;
+    color: #d1d7e2;
+    padding-top: 1.3rem;
+    opacity: 75%;
+}
+
+.fa-facebook-f,
+.fa-envelope,
+.fa-phone {
+  color: #F2EDE6;
+  padding-bottom: .15em;
+  padding-top: .2em;
+}
+
+.fa-envelope {
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.fa-facebook-f:hover,
+.fa-envelope:hover,
+.fa-phone:hover {
+    color: #03a6a6;
+}
+
+.footer-padding {
+    padding-top: 1rem;
+    padding-bottom: .25rem;
+}
+
+.ftr-logo {
+    height: auto;
+    width: 40%;
+    display: inline-block;
+    margin-right:30%;
+    margin-left:30%;
+}
+
+.ftr-header {
+    color: #F2EDE6;
+    font-family: Ubuntu;
+    font-weight: 500;
+}
+
+footer p {
+    color: #D89288;
+}
+
+.ftr-hr,
+.icons-hr {
+  background-color: #E2DCD1;
+  opacity: 25%;
+}
+
+.icons-hr {
+    width: 25%;
+}
+
+.ftr-hr {
+    width: 85%;
+}
+
+.i-hr-bottom {
+    padding-bottom: 0em;
+    margin-bottom: .25rem;
+}
+  

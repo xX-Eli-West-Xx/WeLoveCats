@@ -53,9 +53,9 @@
           Shop
         </a>
         <div class="dropdown-menu bg-salmon">
-          <a class="dropdown-item text" href="food.php">Food</a>
-          <a class="dropdown-item text" href="housing.php">Housing</a>
-          <a class="dropdown-item text" href="equipment.php">Equipment</a>
+          <a class="dropdown-item text-white" href="food.php">Food</a>
+          <a class="dropdown-item text-white" href="housing.php">Housing</a>
+          <a class="dropdown-item text-white" href="equipment.php">Equipment</a>
         </div>
       </li>
       <li class="nav-item">
@@ -71,6 +71,10 @@
                   echo '
                   <a href="index.php">
                   <button class="btn btn-nav">Welcome, '.$_SESSION['userUid'].'</button>
+                  </a>
+
+                  <a href="./includes/logout.inc.php" name="logout-submit">
+                  <button class="btn btn-nav">Logout</button>
                   </a>
                   ';
                 } else {

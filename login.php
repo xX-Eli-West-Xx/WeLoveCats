@@ -37,7 +37,8 @@
                 </section>
               </div>
           </div>
-
+    </div>
+</div>
           <br><br><br>
 
 <?php

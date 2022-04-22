@@ -4,7 +4,7 @@
 <div class="container-fluid bg-dp">
 
   <!-- Logo -->
-  <div class="row bg-darkteal text-center padding-top">
+  <div class="row text-center padding-top">
     <div class="col-sm-12 col-md-4 ftr-info">
       <hr class="light ftr-hr">
       <h5 class="ftr-header">
@@ -21,12 +21,12 @@
     <div class="col-sm-12 col-md-4 ftr-info">
       <hr class="light ftr-hr">
       <h5 class="ftr-header">
-        Stuff
+        Shop!
       </h5>
       <hr class="light ftr-hr">
-      <p>Stuff</p>
-      <p>Stuff</p>
-      <p>Stuff</p>
+      <p><a href="food.php">Food</a></p>
+      <p><a href="housing.php">Housing</a></p>
+      <p><a href="equipment.php">Equipment</a></p>
     </div>
   </div>
 
@@ -48,7 +48,7 @@
   </div>
 
   <!-- Copyright row -->
-  <div class="row bg-darkteal">
+  <div class="row">
     <div class="col-12 text-center">
       <p class="ftr-copy">&copy; WeLoveCats 2022</p>
     </div>

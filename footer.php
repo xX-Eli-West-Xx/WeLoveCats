@@ -8,12 +8,18 @@
     <div class="col-sm-12 col-md-4 ftr-info">
       <hr class="light ftr-hr">
       <h5 class="ftr-header">
-        Stuff
+        Collaberators!
       </h5>
       <hr class="light ftr-hr">
-      <p>Stuff</p>
-      <p>Stuff</p>
-      <p>Stuff</p>
+<a href="https://datadev.devcatalyst.com/~mahs_eggplantemoji" style="color:white;">
+      <p style="">Hyperware</p>
+</a>
+<a href="https://datadev.devcatalyst.com/~mahs_mozzarelamen/" style="color:white;">
+      <p>Dripanzees</p>
+</a>
+<a href="https://datadev.devcatalyst.com/~mahs_minions/" style="color:white">
+      <p>VSBA</p>
+</a>
     </div>
     <div class="col-sm-12 col-md-4 d-flex align-self-center text-center">
       <img src="https://drive.google.com/uc?export=view&id=1bKaLXk83mFIGGCuNA_51C_1aSZoNFrcp" class="ftr-logo">
@@ -24,9 +30,9 @@
         Shop!
       </h5>
       <hr class="light ftr-hr">
-      <p><a href="food.php">Food</a></p>
-      <p><a href="housing.php">Housing</a></p>
-      <p><a href="equipment.php">Equipment</a></p>
+      <p><a href="food.php" style="color:white">Food</a></p>
+      <p><a href="housing.php" style="color:white">Housing</a></p>
+      <p><a href="equipment.php" style="color:white">Equipment</a></p>
     </div>
   </div>
 

@@ -84,6 +84,21 @@
                   </a>
                   ';
                 }
+                //cat button
+                if (isset($_SESSION['catUid'])) {
+                  echo '
+                  <a href="index.php">
+                  <button class="btn btn-nav">Welcome, '.$_SESSION['catUid'].'</button>
+                  </a>
+
+                  <a href="./includes/logout.inc.php" name="logout-submit">
+                  <button class="btn btn-nav">Logout</button>
+                  </a>
+                  ';
+                } else {
+                  echo ' 
+                  ';
+                }
               ?>
     </li>
   </div>

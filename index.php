@@ -30,7 +30,7 @@
         <img src="https://drive.google.com/uc?export=view&id=1BFpylJjvs6fElFx1fx7pVjMN8IgaNT0_" style="width: 100%;">
         <div class="carousel-caption center">
           <a href="https://datadev.devcatalyst.com/~mahs_mwest/">
-            <h1 class="text">
+            <h1 class="text" style="color:white;">
               It's cold out there!
             </h1>
           </a>

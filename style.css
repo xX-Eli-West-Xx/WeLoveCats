@@ -169,15 +169,124 @@ nav {
 
 
 
-/* About */
+
+
+
+
+/*     AAAAAA     BBBBBBB       OOOOOOOO    UUU    UUU   TTTTTTTTTTT
+      AAA  AAA    BBB  BBB     OOOOOOOOOO   UUU    UUU   TTTTTTTTTTT
+     AAA    AAA   BBB   BBB    OOO    OOO   UUU    UUU       TTT    
+     AAA    AAA   BBBBBBB      OOO    OOO   UUU    UUU       TTT    
+     AAAAAAAAAA   BBB   BBB    OOO    OOO   UUU    UUU       TTT    
+     AAA    AAA   BBB    BBB   OOO    OOO   UUU    UUU       TTT    
+     AAA    AAA   BBB   BBB    OOOOOOOOOO   UUU    UUU       TTT    
+     AAA    AAA   BBBBBBBB      OOOOOOOO      UUUUUU         TTT       */
+
 .h1-about {
-    margin-top: 1.75%;
     text-align:center;
-    font-family: Ubuntu;
-    font-variant: normal;
     font-weight: 700;
+    color:white;
+    font-size:4.5rem;
+    padding-top:2rem;
+    padding-bottom:2rem;
 }
 
+.h1-about-box {
+    background-color:#E7626A;
+    border-radius:4px;
+    width:69%;
+    height:auto;
+    padding:0;
+    margin-top:2rem;
+    margin-bottom:0;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.about-logo{
+    height:9.5rem;
+    margin-top:1rem;
+    margin-bottom:1rem;
+}
+
+.about-box-1 {
+    background-color:#E7626A;
+    border-radius:4px;
+    padding:2rem;
+    margin-left:auto;
+    margin-right:auto;
+    height:auto;
+    width:85%;
+}
+
+.about-p {
+    color:white;
+    text-align:left;
+    font-size:1.5rem;
+}
+
+.about-img-1 {
+    height:32rem;
+    border-radius:4px;
+    margin-top:2rem;
+    margin-bottom:1rem;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.about-box-2 {
+    background-color:#9F1D34;
+    border-radius:4px;
+    padding:2rem;
+    margin-left:auto;
+    margin-right:auto;
+    height:auto;
+    width:85%;
+}
+
+.about-img-2 {
+    height:32rem;
+    border-radius:4px;
+    margin-top:1rem;
+    margin-bottom:2rem;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.img-col{
+    text-align:center;
+}
+
+.about-box-3 {
+    background-color:#E7626A;
+    border-radius:4px;
+    padding:2rem;
+    margin-left:auto;
+    margin-right:auto;
+    height:auto;
+    width:90%;
+}
+
+.about-img-3 {
+    height:auto;
+    width:90%;
+    border-radius:4px;
+    margin-top:2rem;
+    margin-bottom:2rem;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.about-box-4 {
+    background-color:#E7626A;
+    border-radius:4px;
+    padding:2rem;
+    margin-bottom:2rem;
+    margin-left:auto;
+    margin-right:auto;
+    height:auto;
+    width:90%;
+}
 
 
 
@@ -310,8 +419,12 @@ footer {
     font-weight: 500;
 }
 
-footer p {
+footer p, footer a {
     color: #D89288;
+}
+
+footer a:hover{
+    color:#E7626A;
 }
 
 .ftr-hr,

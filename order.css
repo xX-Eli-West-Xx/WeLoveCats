@@ -9,8 +9,12 @@ body{
 }
 
 .order-card{
-    height: 625px;
+    height: 1000px;
+}
+
+.order-img{
     width: 100%;
+    height: 550px;
 }
 
 

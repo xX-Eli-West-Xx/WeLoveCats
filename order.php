@@ -114,64 +114,52 @@
     <div class="row h-100">
       <div class="col-sm-12 col-md-6 my-auto">
         <div class="order-card card mb-3 product-card bg-lp text">
-          <img src="https://drive.google.com/uc?export=view&id=1iR_FJcHPYeRNFXTArm9qvqfPX9eaPRSU" class="product-img" alt="...">
+          <img src="https://drive.google.com/uc?export=view&id=1iR_FJcHPYeRNFXTArm9qvqfPX9eaPRSU" class="order-img product-img" alt="...">
           <div class="card-body">
             <h4 class="order card-title">dust</h4>
-            <small class="...">Price/Price Range</small>
-            <p class="card-text">Description</p>
           </div>
         </div>
       </div>
 
       <div class="col-sm-12 col-md-6 my-auto">
         <div class="order-card card mb-3 product-card bg-salmon text">
-          <img src="https://drive.google.com/uc?export=view&id=1m_Qbw7M84ejJ2G2gHHo9LXYt5adAHiur" class="product-img" alt="...">
+          <img src="https://drive.google.com/uc?export=view&id=1m_Qbw7M84ejJ2G2gHHo9LXYt5adAHiur" class="order-img product-img" alt="...">
           <div class="card-body">
             <h4 class="order card-title">fire</h4>
-            <small class="...">Price/Price Range</small>
-            <p class="card-text">Description</p>
           </div>
         </div>
       </div>
 
       <div class="col-sm-12 col-md-6 my-auto">
         <div class="order-card card mb-3 product-card bg-salmon text">
-          <img src="https://drive.google.com/uc?export=view&id=1l5Y6UcGBAr3c1MTOeiY82IWtzuVPdldE" class="product-img" alt="...">
+          <img src="https://drive.google.com/uc?export=view&id=1l5Y6UcGBAr3c1MTOeiY82IWtzuVPdldE" class="order-img product-img" alt="...">
           <div class="card-body">
             <h4 class="order card-title">water</h4>
-            <small class="...">Price/Price Range</small>
-            <p class="card-text">Description</p>
           </div>
         </div>
       </div>
 
       <div class="col-sm-12 col-md-6 my-auto">
         <div class="order-card card mb-3 product-card bg-salmon text">
-          <img src="https://drive.google.com/uc?export=view&id=1ysuvbVtn39csUwPPplFihy4cRw5Gk6iP" class="product-img" alt="...">
+          <img src="https://drive.google.com/uc?export=view&id=1ysuvbVtn39csUwPPplFihy4cRw5Gk6iP" class="order-img product-img" alt="...">
           <div class="card-body">
             <h4 class="order card-title">ice</h4>
-            <small class="...">Price/Price Range</small>
-            <p class="card-text">Description</p>
           </div>
         </div>
       </div>
       <div class="col-sm-12 col-md-6 my-auto">
         <div class="order-card card mb-3 product-card bg-lp text">
-          <img src="https://drive.google.com/uc?export=view&id=1kLDvFegmn6LRqo0HRijem2tEou671wwj" class="product-img" alt="...">
+          <img src="https://drive.google.com/uc?export=view&id=1kLDvFegmn6LRqo0HRijem2tEou671wwj" class="order-img product-img" alt="...">
           <div class="card-body">
-            <h4 class="order card-title">Featured Product</h4>
-            <small class="...">Price/Price Range</small>
-            <p class="card-text">Description</p>
+            <h4 class="order card-title">storms</h4>
           </div>
         </div>
       </div>
       <div class="col-sm-12 col-md-6 my-auto">
         <div class="order-card card mb-3 product-card bg-lp text">
-          <img src="https://drive.google.com/uc?export=view&id=1PVlb-fN-2vuSEGjJSThtJnrD6Fi7vwEZ" class="product-img" alt="...">
+          <img src="https://drive.google.com/uc?export=view&id=1PVlb-fN-2vuSEGjJSThtJnrD6Fi7vwEZ" class="order-img product-img" alt="...">
           <div class="card-body">
             <h4 class="order card-title">winds</h4>
-            <small class="...">Price/Price Range</small>
-            <p class="card-text">Description</p>
           </div>
         </div>
       </div>

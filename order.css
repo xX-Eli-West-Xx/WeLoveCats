@@ -1,0 +1,195 @@
+body{
+    background-color:#000000;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: white;
+}
+
+.order{
+    font-family: Copperplate Gothic;
+}
+
+.order-card{
+    height: 625px;
+    width: 100%;
+}
+
+
+.bg-lp {
+    background-color:#aa0000;
+}
+.bg-salmon{
+    background-color:#111111;
+}
+.bg-dp{
+    background-color:#9f1d34;
+}
+.salmon{
+    color:#333333;
+}
+
+
+
+
+.text-white{
+    font-family: "Comic Sans MS";
+    color: white;
+}
+.text-black{
+    font-family: "Comic Sans MS";
+    color:black;
+}
+.italic{
+    font-style: italic;
+}
+.bold{
+    font-weight: bold;
+}
+.underline{
+    font-style: underline;
+}
+.right{
+    text-align: right;
+}
+.left{
+    text-align: left;
+}
+.center{
+    text-align: center;
+}
+
+
+
+
+
+.nav-logo{
+    height:70px;
+    padding: 0px;
+}
+
+.btn-nav {
+    background-color:#000000;
+    color:white;
+    font-size:130%;
+    margin-right:12px;
+}
+
+.btn-nav:hover {
+    color:#a30e0e;
+}
+
+.nav-link {
+    color: black;
+    font-size:130%;
+}
+
+.nav-link:hover {
+    font-weight:bold;
+    color:#222222;
+}
+
+.dropdown-item:hover {
+    background-color:#9f1d34;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+
+.nav-item {
+    padding-left:25px;
+    padding-right:25px;
+}
+
+nav {
+    padding-bottom:0;
+}
+
+
+
+
+
+
+footer {
+    width:100%;
+}
+
+.ftr-text {
+    padding-top: .5em;
+    padding-bottom: 0em;
+    font-size: 1.2rem;
+}
+
+.ftr-copy {
+    text-align: center;
+    color: #e7626a;
+    padding-top: 1.3rem;
+    opacity: 75%;
+}
+
+.fa-facebook-f,
+.fa-envelope,
+.fa-phone {
+  color: #F2EDE6;
+  padding-bottom: .15em;
+  padding-top: .2em;
+}
+
+.fa-envelope {
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.fa-facebook-f:hover,
+.fa-envelope:hover,
+.fa-phone:hover {
+    color: #fce2b6;
+    text-decoration:none;
+}
+
+.footer-padding {
+    padding-top: 1rem;
+    padding-bottom: .25rem;
+}
+
+.ftr-logo {
+    height: auto;
+    width: 40%;
+    display: inline-block;
+    margin-right:30%;
+    margin-left:30%;
+}
+
+.ftr-header {
+    color: #F2EDE6;
+    font-family: Ubuntu;
+    font-weight: 500;
+}
+
+footer p, footer a {
+    color: #D89288;
+}
+
+footer a:hover{
+    color:#E7626A;
+}
+
+.ftr-hr,
+.icons-hr {
+  background-color: #E2DCD1;
+  opacity: 25%;
+}
+
+.icons-hr {
+    width: 25%;
+}
+
+.ftr-hr {
+    width: 85%;
+}
+
+.i-hr-bottom {
+    padding-bottom: 0em;
+    margin-bottom: .25rem;
+}
+  

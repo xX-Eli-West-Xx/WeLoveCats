@@ -19,7 +19,7 @@
             WeLoveCats
           </h1>
           <h4 class="text">
-            No Spaces. Welcome to the number one shop for your little ones!
+            Welcome to the number one shop for your little ones!
           </h4>
           <a href="about.php" class="btn btn-color slide-btn btn-lg">
                   <button class="btn btn-nav">About Us!</button>
@@ -61,58 +61,7 @@
   </div>
   </div>
   </div>
-  <!--  separator DO NOT TOUCH THIS  -->
-  <div>
-    <br>
-  </div>
-
-  <div class="container-fluid featured-products">
-    <div class="row h-100">
-      <div class="col-sm-12 col-md-6 my-auto">
-        <div class="card mb-3 product-card bg-lp text">
-          <img src="#" class="product-img" alt="...">
-          <div class="card-body">
-            <h4 class="card-title">Featured Product</h4>
-            <small class="...">Price/Price Range</small>
-            <p class="card-text">Description</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-12 col-md-6 my-auto">
-        <div class="card mb-3 product-card bg-salmon text">
-          <img src="#" class="product-img" alt="...">
-          <div class="card-body">
-            <h4 class="card-title">Featured Product</h4>
-            <small class="...">Price/Price Range</small>
-            <p class="card-text">Description</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-12 col-md-6 my-auto">
-        <div class="card mb-3 product-card bg-salmon text">
-          <img src="#" class="product-img" alt="...">
-          <div class="card-body">
-            <h4 class="card-title">Featured Product</h4>
-            <small class="...">Price/Price Range</small>
-            <p class="card-text">Description</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-12 col-md-6 my-auto">
-        <div class="card mb-3 product-card bg-lp text">
-          <img src="#" class="product-img" alt="...">
-          <div class="card-body">
-            <h4 class="card-title">Featured Product</h4>
-            <small class="...">Price/Price Range</small>
-            <p class="card-text">Description</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+  
 
 <?php
   include "footer.php";

@@ -56,8 +56,21 @@
           <a class="dropdown-item text-white" href="food.php">Food</a>
           <a class="dropdown-item text-white" href="housing.php">Housing</a>
           <a class="dropdown-item text-white" href="equipment.php">Equipment</a>
+          <a class="dropdown-item text-white" href="https://datadev.devcatalyst.com/~mahs_mozzarelamen/">Clothes?!</a>
         </div>
       </li>
+      <?php
+                if (isset($_SESSION['userUid'])) {
+                  echo '
+                  <li class="nav-item">
+                  <a class="nav-link" href="order.php">Order</a>
+                  </li>
+                  ';
+                } else {
+                  echo ' 
+                  ';
+                }
+      ?>
       <li class="nav-item">
         <a href="cart.php" class="nav-link">
           <i class="fas fa-shopping-cart fa-lg"></i>
@@ -82,21 +95,6 @@
                   <a href="signup.php">
                   <button class="btn btn-nav">Sign Up | Log In</button>
                   </a>
-                  ';
-                }
-                //cat button
-                if (isset($_SESSION['catUid'])) {
-                  echo '
-                  <a href="index.php">
-                  <button class="btn btn-nav">Welcome, '.$_SESSION['catUid'].'</button>
-                  </a>
-
-                  <a href="./includes/logout.inc.php" name="logout-submit">
-                  <button class="btn btn-nav">Logout</button>
-                  </a>
-                  ';
-                } else {
-                  echo ' 
                   ';
                 }
               ?>

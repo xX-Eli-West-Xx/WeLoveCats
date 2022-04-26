@@ -59,7 +59,7 @@
       <p class="about-p">We may seem super professional, and sure we are, but it’s just two of us here at HQ keeping the felines happy! 
       We just want our kitty friends to be happy with what they are supplied with.
       <br><br>The entire inventory is extremely limited. So limited in fact, that there is nothing at all! 
-      Please do not put your credit card information into this site! You are ASKING to be scammed online!!</p>
+      Please do not put your credit card information into this site! You are ASKING to be <a href="https://datadev.devcatalyst.com/~mahs_eggplantemoji" style="color:white;">scammed</a> online!!</p>
     </div>
   </div>
 

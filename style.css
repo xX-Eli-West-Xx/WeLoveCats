@@ -167,6 +167,14 @@ nav {
     margin-top:0%;
 }
 
+.carousel-link{
+    color:white;
+}
+
+.carousel-link:hover{
+    text-decoration: underline;
+    color:white;
+}
 
 
 

@@ -15,10 +15,10 @@
       <div class="carousel-item active">
         <img src="https://drive.google.com/uc?export=view&id=184LpWmjXyNirFlKgphcIeRMZrM6ErVtT" style="width: 100%;">
         <div class="carousel-caption">
-          <h1 class="text">
+          <h1 class="text-white">
             WeLoveCats
           </h1>
-          <h4 class="text">
+          <h4 class="text-white">
             Welcome to the number one shop for your little ones!
           </h4>
           <a href="about.php" class="btn btn-color slide-btn btn-lg">
@@ -29,12 +29,12 @@
       <div class="carousel-item">
         <img src="https://drive.google.com/uc?export=view&id=1BFpylJjvs6fElFx1fx7pVjMN8IgaNT0_" style="width: 100%;">
         <div class="carousel-caption center">
-          <a href="https://datadev.devcatalyst.com/~mahs_mwest/">
-            <h1 class="text" style="color:white;">
+          <h1 class="text-white">
+            <a href="https://datadev.devcatalyst.com/~mahs_mwest/" class="carousel-link">
               It's cold out there!
-            </h1>
-          </a>
-          <h4 class="text">
+            </a>
+          </h1>
+          <h4 class="text-white">
             You should take a look at the housing! We have something for everyone!
           </h4>
           <a href="housing.php" class="btn btn-color slide-btn btn-lg">
@@ -44,10 +44,10 @@
       <div class="carousel-item">
         <img src="https://drive.google.com/uc?export=view&id=1T6-ZUn0KMy8hguBTpN8luCSMBtnovdB-"  style="width: 100%;">
         <div class="carousel-caption">
-          <h1 class="text">
+          <h1 class="text-white">
             Woah there! Who are you?
           </h1>
-          <h4 class="text">
+          <h4 class="text-white">
             Sign up for our newsletter on new products or sales!
           </h4>
           <a href="signup.php" class="btn btn-color slide-btn btn-lg">

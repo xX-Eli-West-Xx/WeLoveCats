@@ -26,7 +26,7 @@
     </div>
     <div class="col-sm-12 col-md-4 ftr-info">
       <hr class="light ftr-hr">
-      <h5 class="ftr-header">
+      <h5 class="ftr-header ftr-shop">
         Shop!
       </h5>
       <hr class="light ftr-hr">

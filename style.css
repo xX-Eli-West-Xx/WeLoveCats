@@ -419,6 +419,10 @@ footer {
     font-weight: 500;
 }
 
+.ftr-shop {
+    color:#D89288;
+}
+
 footer p, footer a {
     color: #D89288;
 }
